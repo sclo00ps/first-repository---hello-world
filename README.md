@@ -1,2 +1,2 @@
-# first-repository---hellow-world
+# first-repository---hello-world
 initial github repository
